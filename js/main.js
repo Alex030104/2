@@ -17,7 +17,7 @@ $(document).ready(function() {
         $('#seriesDetail').find('.card-subtitle').text( 'The series begins revolving around Piper Chapman, a woman in her thirties living in New York City who is sentenced to 15 months in Litchfield Penitentiary');
         $('#seriesDetail').find('.card-text').text('https://www.netflix.com/co/title/70242311');
         $('#seriesDetail').find('.card-img-top').text(imageUrl =  'https://i.imgur.com/EvKe48G.jpg') ;
-
+ 
       } 
      if (name === 'Game of Thrones') {
         $('#seriesDetail').find('.card-subtitle').text( ' Game of Thrones is a fantasy drama television series that follows various noble families as they fight for control of the Seven Kingdoms of Westeros, while an ancient enemy returns to threaten the realm.');

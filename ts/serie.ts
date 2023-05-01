@@ -6,7 +6,7 @@ export class serie{
     description: string;
     webpage: string;
     poster: string;
-
+ 
 constructor( id: number, name: string, channel: string, seasons: number, description: string, webpage: string, poster: string){
 this.id = id; 
 this.name = name;
